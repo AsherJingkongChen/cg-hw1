@@ -19,8 +19,6 @@ Before building the project, ensure you have the following installed:
 Using Homebrew:
 ```bash
 brew install cmake
-brew install glfw
-brew install glew
 ```
 
 ### Linux (Ubuntu/Debian)
